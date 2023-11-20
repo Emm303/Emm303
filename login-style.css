@@ -1,0 +1,139 @@
+.body {
+	margin: 0;
+
+}
+
+body {
+	background: #804949;
+	margin:0px;
+	font-size:200%;
+}
+
+
+.header {
+	background: #F2F2F2;
+	width: 100%;
+	padding:30px;
+	height:20px;
+	margin:0px;
+	border: 1px solid black;
+	text-align: middle-left;
+	
+}
+
+.box {
+	position: absolute;
+	top: 20%;
+	left: 24%;
+	width: 300px;
+	height: 100px;
+	background-color: #371313;
+	padding: 300px;
+	border-radius: 15px;
+	color: white;
+}
+
+
+
+div.link1 {
+	position: absolute; 
+	right: 10px;
+	top: 30px;
+	font-size: 15px;
+	background-color: #D9D9D9;
+	border: 10px solid #D9D9D9;
+	color: #371313;
+}
+
+div.link2 {
+	position: absolute; 
+	right: 90px;
+	top: 30px;
+	font-size: 15px;
+	background-color: #D9D9D9;
+	border: 10px solid #D9D9D9;
+	color: #371313;
+}
+
+p {
+	font-size: 50px;
+	position: absolute;
+	left: 15%;
+	top: 15%;
+	
+}
+.usern {
+	position: absolute;
+	left: 20%;
+	bottom: 50%;
+
+
+}
+
+
+.password {
+	position: absolute;
+	left: 20%;
+	bottom: 40%;
+
+
+}
+
+h4 {
+	font-size: 20px;
+	color: peachpuff;
+	position: absolute;
+	top: 70%;
+	left: 35%;
+ }
+ 
+input[type=text], select {
+	width: 355px;
+	display: block;
+	padding: 12px 20px;
+	margin: 5px 0;
+	border: 1px solid #cccc;
+	border-radius: 4px;
+	box-sizing: border-box;
+}
+
+input { 
+	width: 500px;
+	height: 10px;
+	position: absolute;
+	left: 106%;
+	bottom: 2%;
+ }
+ 
+
+ a:hover {
+	color: rosybrown;
+	
+}
+a:active {
+	color: maroon; 
+}
+
+a:visited {
+	color: marroon;
+}
+a:hover {
+	text-decoration: none; 
+	
+}
+a {
+	text-decoration: none; 
+}
+
+a:visited {
+	text-decoration: none; 
+}
+
+#special-link {
+	color: white;
+	text-decoration: underline;
+}
+
+#special-link:hover {
+	color: lightgrey;
+}

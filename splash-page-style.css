@@ -1,0 +1,95 @@
+.body {
+margin: 0;
+
+}
+
+body {
+	background: #804949;
+	margin:0px;
+	font-size:200%;
+}
+
+
+.header {
+	background: #F2F2F2;
+	width: 100%;
+	padding:30px;
+	height:20px;
+	margin:0px;
+	border: 1px solid black;
+	text-align: left;
+	
+}
+
+.banners {
+	width:50%;
+	height: 40%;
+	border: 30px;
+	
+}
+
+.banner1 {
+	background-color:#FFF0E1;
+	position: absolute;
+	top: 300px;
+	left: 20%;
+	width: 850px;
+	height: 82px;
+	text-align: center;
+	padding: 60px;
+
+}
+
+.banner1 p {
+	position: absolute;
+	top: 2%;
+	left: 40%;
+	font-size: 70px;
+	text-align: center;
+}
+.banner2 {
+	background-color: #FFFFFF;
+	position: absolute;
+	top: 500px;
+	left: 45%;
+	padding: 60px;
+}
+
+div.link1 {
+	position: absolute; 
+	right: 10px;
+	top: 30px;
+	font-size: 15px;
+	background-color: #D9D9D9;
+	border: 10px solid #D9D9D9;
+	color: #371313;
+}
+
+div.link2 {
+	position: absolute; 
+	right: 150px;
+	top: 30px;
+	font-size: 15px;
+	background-color: #D9D9D9;
+	border: 10px solid #D9D9D9;
+	color: #371313;
+}
+
+a:hover {
+	color: rosybrown;
+	
+}
+a:active {
+	color: maroon; 
+}
+
+a:visited {
+	color: marroon;
+}
+a:hover {
+	text-decoration: none; 
+	
+}
+a {
+	text-decoration: none; 
+}

@@ -1,0 +1,175 @@
+.body {
+margin: 0;
+
+}
+
+body {
+	background: #804949;
+	margin:0px;
+	font-size:200%;
+}
+
+
+.header {
+	background: #F2F2F2;
+	width: 100%;
+	padding:30px;
+	height:20px;
+	margin:0px;
+	border: 1px solid black;
+	text-align: middle-left;
+	
+}
+
+
+div.link1 {
+	position: absolute; 
+	right: 10px;
+	top: 30px;
+	font-size: 15px;
+	background-color: #D9D9D9;
+	border: 10px solid #D9D9D9;
+	color: #371313;
+}
+
+div.link2 {
+	position: absolute; 
+	right: 90px;
+	top: 30px;
+	font-size: 15px;
+	background-color: #D9D9D9;
+	border: 10px solid #D9D9D9;
+	color: #371313;
+}
+
+.box h1 {
+	font-size: 50px;
+	position: absolute;
+	left: 12%;
+	top: 10%;
+	color: white;
+	
+}
+
+
+.name {
+	position: absolute;
+	left: 200px;
+	top: 30%;
+	color: white;
+  	font-size: 25px;
+	
+}
+
+.userpass {
+	position: absolute;
+	left:200px;
+	bottom: 30%;
+	color: white;
+	font-size: 25px;
+}
+
+h4 {
+	font-size: 20px;
+	position: absolute;
+	top: 70%;
+	left: 35%;
+	width: 300px; 
+	color: peachpuff;
+ }
+
+
+
+.box {
+	position: absolute;
+	top: 20%;
+	left: 24%;
+	background-color: #371313;
+	padding: 300px;
+	border-radius: 15px;
+	width: 300px;
+}
+input[type=firstname] {
+	position:absolute;
+	left: 105%;
+	bottom: 55%;
+	width: 350px;
+	padding: 5px 20px;
+	margin: 5px 0;
+	border: 1px solid #cccc;
+	border-radius: 4px;
+	box-sizing: border-box;
+}
+
+
+input[type=lastname] {
+	position:absolute;
+	left: 105%;
+	bottom: 15%;
+	width: 350px;
+	padding: 5px 20px;
+	margin: 5px 0;
+	border: 1px solid #cccc;
+	border-radius: 4px;
+	box-sizing: border-box;
+}
+ 
+input[type=username] {
+	position:absolute;
+	left: 105%;
+	bottom: 55%;
+	width: 360px;
+	padding: 5px 20px;
+	margin: 5px 0;
+	border: 1px solid #cccc;
+	border-radius: 4px;
+	box-sizing: border-box;
+}
+
+input[type=password] {
+	position:absolute;
+	left: 101%;
+	bottom: 15%;
+	width: 365px;
+	padding: 5px 20px;
+	margin: 5px 0;
+	border: 1px solid #cccc;
+	border-radius: 4px;
+	box-sizing: border-box;
+
+}
+
+
+
+a:hover {
+	color: rosybrown;
+	
+}
+
+a:active {
+	color: maroon; 
+}
+
+a:visited {
+	color: marroon;
+}
+a:hover {
+	text-decoration: none; 
+	
+}
+a {
+	text-decoration: none; 
+}
+
+a:visited {
+	text-decoration: none; 
+}
+
+#special-link {
+	color: white;
+	text-decoration: underline;
+}
+
+#special-link:hover {
+	color: lightgrey;
+}
